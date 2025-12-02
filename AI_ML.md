@@ -15,7 +15,7 @@
 - Ethical considerations in AI development & deployment and MYCIN.
 
 ### Problems 
-– Water Jug problem
+- Water Jug problem
 - Block words Problem
 - Monkey & Banana problem
 
